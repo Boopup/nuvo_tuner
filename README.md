@@ -1,4 +1,4 @@
-# nuvo_tuner
+# Working - nuvo_tuner
 Home Assistant custom component integration to control Nuvo tuners (currently only the NV-T2SIR).
 
 ## What this Integration does:
